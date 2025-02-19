@@ -1,2 +1,2 @@
 index.js
-templeates
+templates
